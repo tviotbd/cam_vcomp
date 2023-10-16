@@ -1,2 +1,2 @@
 # cam_vcomp
-teste
+Nao usar!!!!
